@@ -36,4 +36,4 @@ It is passed a single argument, `env`, which is a Python dictionary containing r
 2.  **Navigate to the App Launcher:** From the main menu, select `Code Loader`.
 3.  **Select Your App:** Scroll to your app's name and press the `OK` button to launch it.
 
-Ready to write some code? Head over to our **[Hello, World! Tutorial](../tutorials/hello-world/)** to get started.
+Ready to write some code? Head over to our **[Hello, World! Tutorial](../../tutorials/hello-world/)** to get started.

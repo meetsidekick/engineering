@@ -4,14 +4,12 @@ layout: hextra-home
 comments: false
 ---
 
-{{< hextra/hero-badge >}}
+{{< hextra/hero-badge link="./docs/reference/open-source" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <a href="./reference/open-source">
-    <span>Hackable & Open Source</span>
+    <span>Hackable & Open Source, See How</span>
     {{< icon name="arrow-circle-right" attributes="height=14" >}}
-  </a>
-{{< /hextra/hero-badge >}}
 
+{{< /hextra/hero-badge >}}
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
   Sidekick: The Tamagotchi <br class="hx:sm:block hx:hidden" />for Hackers

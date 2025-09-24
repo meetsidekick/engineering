@@ -12,7 +12,7 @@ comments: false
 {{< /hextra/hero-badge >}}
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  Sidekick: The Tamagotchi <br class="hx:sm:block hx:hidden" />for Hackers
+  Sidekick: The Tamagotchi <br class="hx:sm:block hx:hidden" />for Tinkerers
 {{< /hextra/hero-headline >}}
 </div>
 

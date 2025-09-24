@@ -3,8 +3,6 @@ title: "Adding Your Own Code"
 weight: 1
 ---
 
-# Adding Your Own Code
-
 One of the best features of the Sidekick is its ability to run your own custom MicroPython code. This guide shows you how to create, upload, and run a simple app.
 
 ## The `custom_code` Folder

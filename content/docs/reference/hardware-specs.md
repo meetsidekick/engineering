@@ -3,8 +3,6 @@ title: "Hardware Specs & Wiring"
 weight: 1
 ---
 
-# Hardware Specs & Wiring
-
 This page contains the detailed technical information for the Sidekick hardware.
 
 ## Required Components

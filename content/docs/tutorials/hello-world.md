@@ -3,8 +3,6 @@ title: "1. Hello, World!"
 weight: 1
 ---
 
-# 1. Hello, World!
-
 This first lesson will guide you through creating a simple "Hello, World!" app. This will teach you the basic structure of a custom app and how to display text on the screen.
 
 ## 1. Create the File

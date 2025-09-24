@@ -3,8 +3,6 @@ title: "Personality Cores"
 weight: 2
 ---
 
-# Personality Cores
-
 Your Sidekick's emotional responses are not fixed. You can completely change its personality by creating and switching between different **Personality Cores**. A core is a single Python file that defines a set of emotions, their decay rates, and how the Sidekick reacts to certain feelings.
 
 ## Core Concepts

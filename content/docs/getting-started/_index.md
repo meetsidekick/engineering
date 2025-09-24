@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 weight: 1
+comments: false
 ---
 
 Welcome to your Sidekick! Let's get it set up and running. This guide covers the initial software installation and firmware flashing.

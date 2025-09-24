@@ -1,5 +1,6 @@
 ---
 title: "Documentation"
+comments: false
 ---
 
 # Welcome to the Sidekick Docs

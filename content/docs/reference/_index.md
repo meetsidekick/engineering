@@ -1,6 +1,7 @@
 ---
 title: "Reference"
 weight: 4
+comments: false
 ---
 
 This section contains detailed technical information, hardware specifications, and wiring diagrams for the Sidekick.

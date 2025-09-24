@@ -1,6 +1,7 @@
 ---
 title: "Custom Code Tutorials"
 weight: 3
+comments: false
 ---
 
 Welcome to the Custom Code Series! This series of tutorials will guide you through the process of writing your own apps for the Sidekick, starting from a simple "Hello, World!" and progressing to more advanced examples.

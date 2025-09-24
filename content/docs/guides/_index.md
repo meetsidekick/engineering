@@ -1,6 +1,7 @@
 ---
 title: "Guides"
 weight: 2
+comments: false
 ---
 
 Here you'll find practical guides on how to customize and extend the functionality of your Sidekick.

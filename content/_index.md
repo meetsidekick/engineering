@@ -1,6 +1,7 @@
 ---
 title: Sidekick
 layout: hextra-home
+comments: false
 ---
 
 {{< hextra/hero-badge >}}
